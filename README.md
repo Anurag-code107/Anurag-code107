@@ -78,6 +78,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Anurag Negi LinkedIn" height="30" width="40" />
   </a>
   <a href="mailto:anuragnegi.dev@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Anurag Negi Gmail" height="30" width="40" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Anurag Negi Gmail" height="30" width="30" />
   </a>
 </p>
