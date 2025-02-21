@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on [Recipe Hub](https://github.com/Anurag-code107/RecipeHub-Backend)
 - 👯 I’m looking to collaborate on [Recipe Hub](https://github.com/Anurag-code107/RecipeHub-Backend)
 - 💬 Ask me about **Java 8, Spring Boot, Spring Security, Angular**
-- 📫 How to reach me: **anuragnegi2704@gmail.com**
+- 📫 How to reach me: **anuragnegi.dev@gmail.com**
 
 ##  Languages and Tools
 <p align="left">
@@ -76,5 +76,8 @@
 <p align="left">
   <a href="https://linkedin.com/in/anurag-negi-218356203/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Anurag Negi LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:anuragnegi.dev@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Anurag Negi Gmail" height="30" width="40" />
   </a>
 </p>
