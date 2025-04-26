@@ -9,7 +9,7 @@
 
 ##  About Me
 
-- 💻 A passionate Java Developer
+- 💻 A passionate Java Developer at MyToshika IT Solutions. 
 - 👨‍💻 Mostly works with Java, Spring Boot.
 - 🔭 I’m currently working on [Recipe Hub](https://github.com/Anurag-code107/RecipeHub-Backend)
 - 👯 I’m looking to collaborate on [Recipe Hub](https://github.com/Anurag-code107/RecipeHub-Backend)
